@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>27.jpeg</filename>
+	<path>C:\Users\famil\Desktop\object_detection_demo-master\object_detection_demo-master\data\images\train\27.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stop_Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>310</ymin>
+			<xmax>379</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>
